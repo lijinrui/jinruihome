@@ -5,7 +5,7 @@ language: en
 # main menu navigation
 menu:
   主页: https://lijinrui.com
-  李门(Wiki): https://lijinrui.com/blog
+  我的Wiki(Blog): https://lijinrui.com/blog
   Hulu: https://www.hulu.com
   #Github: https://github.com/stiekel/hexo-theme-random
 
